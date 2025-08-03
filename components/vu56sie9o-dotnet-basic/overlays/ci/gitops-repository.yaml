@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vu56sie9o-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vu56sie9o-dotnet-basic-gitops
